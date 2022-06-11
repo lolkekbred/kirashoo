@@ -1,6 +1,17 @@
 [
   {
+    "id", 1,
     "username": "lolkekbred",
     "password": "123123"
+  },
+  {
+    "id", 2,
+    "username": "kirashoo",
+    "password": "f89hrh4g9r4h"
+  },
+  {
+    "id", 3,
+    "username": "brokot",
+    "password": "gidhgie84gh"
   }
 ]
